@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1611847945 source:c:\users\ranav\onedrive\desktop\master_sockrt\main.cpp
+	<iostream>
+	<winsock2.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1611847945 source:c:\users\ranav\onedrive\desktop\game_tic-tac-toe\master_sockrt\main.cpp
+	<iostream>
+	<winsock2.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
